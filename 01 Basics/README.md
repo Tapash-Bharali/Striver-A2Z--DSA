@@ -1,3 +1,3 @@
 # 01 Basics
 
-This folder contains basic DSA problems from Striver's A2Z Sheet.
+This folder contains basic C++ problems from Striver's A2Z Sheet.
